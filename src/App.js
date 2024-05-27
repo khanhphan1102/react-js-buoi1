@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import MainComponent from './MainComponent/MainComponent';
+import MainComponent from './Ex1-Layout/MainComponent';
 
 function App() {
   return (
