@@ -12,7 +12,7 @@ export default class Content extends Component {
                             <div className="card bg-light border-0 h-100">
                                 <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
-                                        <i className="bi bi-collection" />
+                                    <i class="fa fa-light fa-server"></i>
                                     </div>
                                     <h2 className="fs-4 fw-bold">Fresh new layout</h2>
                                     <p className="mb-0">
@@ -26,7 +26,7 @@ export default class Content extends Component {
                             <div className="card bg-light border-0 h-100">
                                 <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
-                                        <i className="bi bi-cloud-download" />
+                                    <i class="fa fa-light fa-cloud-arrow-down"></i>
                                     </div>
                                     <h2 className="fs-4 fw-bold">Free to download</h2>
                                     <p className="mb-0">
@@ -40,7 +40,7 @@ export default class Content extends Component {
                             <div className="card bg-light border-0 h-100">
                                 <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
-                                        <i className="bi bi-card-heading" />
+                                    <i class="fa fa-light fa-square-poll-horizontal"></i>
                                     </div>
                                     <h2 className="fs-4 fw-bold">Jumbotron hero header</h2>
                                     <p className="mb-0">
@@ -54,7 +54,7 @@ export default class Content extends Component {
                             <div className="card bg-light border-0 h-100">
                                 <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
-                                        <i className="bi bi-bootstrap" />
+                                    <i class="fa fa-brands fa-bootstrap"></i>
                                     </div>
                                     <h2 className="fs-4 fw-bold">Feature boxes</h2>
                                     <p className="mb-0">
@@ -68,7 +68,7 @@ export default class Content extends Component {
                             <div className="card bg-light border-0 h-100">
                                 <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
-                                        <i className="bi bi-code" />
+                                    <i class="fa fa-light fa-code"></i>
                                     </div>
                                     <h2 className="fs-4 fw-bold">Simple clean code</h2>
                                     <p className="mb-0">
@@ -82,7 +82,7 @@ export default class Content extends Component {
                             <div className="card bg-light border-0 h-100">
                                 <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                                     <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
-                                        <i className="bi bi-patch-check" />
+                                    <i class="fa fa-light fa-circle-check"></i>
                                     </div>
                                     <h2 className="fs-4 fw-bold">A name you trust</h2>
                                     <p className="mb-0">
