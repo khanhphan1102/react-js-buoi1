@@ -1,0 +1,5 @@
+
+
+export const TYPE_SELECTED = "SELECTED"
+export const TYPE_REMOVECHAIR = "REMOVECHAIR"
+export const TYPE_PAYTICKET = "PAYTICKET"
